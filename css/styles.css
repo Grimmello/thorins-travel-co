@@ -2,7 +2,7 @@ html {
   padding-top: 20%;
   background-color: darkgray;
   background-image: url(main.jpg);
-  font-family: sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   background-repeat: no-repeat;
   background-size: ;
   background-position: top;
@@ -32,6 +32,7 @@ p {
   text-shadow: 2px 2px 3px #000000;
 }
 ul {
-  line-height: 20px;
+  line-height: 30px;
   list-style: none;
+  font-size: 20px;
 }

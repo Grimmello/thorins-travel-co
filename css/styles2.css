@@ -1,0 +1,39 @@
+html {
+  background-color: black;
+  background-image: url(gandalf.jpg);
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  text-align: center;
+  padding-left: 7%;
+}
+a {
+  color: white;
+  text-shadow: 2px 2px 3px #000000;
+  list-style: none;
+}
+h1 {
+  padding-top: 10%;
+  color: white;
+  font-size:45px;
+  text-shadow: 2px 2px 3px #000000;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+  text-shadow: 2px 1px 3px #000000;
+}
+h3 {
+  font-size: 16px;
+}
+p {
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px 3px #000000;
+}
+ul {
+  line-height: 30px;
+  list-style: none;
+  font-size: 20px;
+}
